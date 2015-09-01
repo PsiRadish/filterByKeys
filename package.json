@@ -1,0 +1,15 @@
+{
+  "name": "filterByKeys",
+  "version": "1.0.0",
+  "description": "Filter keys from an object if they aren't included in the passed array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "author": "Kyle Fiegener <psiradish@comcast.net> (http://github.com/PsiRadish)",
+  "license": "ISC"
+}
